@@ -10,5 +10,7 @@ https://medium.com/@zeyneppinarsoy/askpdf-local-pdf-rag-assistant-52ae251f03ab
 
 Notes: 
 app.py > local ollama llm
+
 app_g.py > hugging face gradio api
+
 test_loaders are for chunking & embeddings uses langchain
